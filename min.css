@@ -1,0 +1,42 @@
+.navbar-expand-lg {
+    background-color: #3b69d4;
+
+}
+.navbar-light .navbar-brand {
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: aliceblue;
+}
+.navbar-light .nav-link:hover
+{
+    color: #172f66;
+}
+.container-fluid{
+    padding-top: 20px;
+}
+.container{
+    padding-top: 20px;
+}
+.card-group ,.card{
+    padding: 20px;
+ 
+}
+/* .card img{
+    height: 315px;
+    width: 315px;
+} */
+
+.card{
+    border: 5px solid rgba(59, 105, 212,.125);
+}
+
+.card-footer
+{
+    background-color: rgba(59, 105, 212,.125);
+    border-top: 1px solid #3b69d4;;
+}
+.card-title {
+    color: #3b69d4;
+}
+
